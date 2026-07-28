@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Prediction & Analytics Engine
+# 📊 Customer Churn Prediction & Analytics Engine
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-orange.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
