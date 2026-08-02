@@ -11,7 +11,7 @@ An end-to-end Data Analytics and Machine Learning pipeline built to identify hig
 
 ---
 
-## 📌 Executive Summary
+## 📌 Executive 
 
 Customer acquisition costs (CAC) in the telecommunications industry are **5x to 7x higher** than customer retention costs. This project addresses subscription decay by combining **Exploratory Data Analysis (EDA)**, **Advanced Feature Engineering**, and **Cost-Sensitive Machine Learning Ensembles** to predict customer churn probability with high precision.
 
