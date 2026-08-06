@@ -157,3 +157,47 @@ if predict_clicked:
         st.plotly_chart(fig, use_container_width=True)
 else:
     st.info("👈 Adjust the customer details above, then click **Predict Churn** to see the result.")
+    # =========================================================
+# 🖋️ WATERMARK FOOTER
+# =========================================================
+st.markdown("""
+<style>
+    .footer-wrapper {
+        display: flex;
+        justify-content: center;
+        margin-top: 3rem;
+        padding-top: 1.2rem;
+        border-top: 1px solid #2D3646;
+    }
+    .footer-credit {
+        display: inline-block;
+        padding: 0.6rem 1.4rem;
+        border: 1px solid #FFC107;
+        border-radius: 20px;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: #FFC107;
+        letter-spacing: 0.5px;
+        transition: 0.3s ease;
+    }
+    .footer-credit:hover {
+        background: rgba(255, 193, 7, 0.1);
+        box-shadow: 0 0 15px rgba(255, 193, 7, 0.25);
+    }
+    .footer-credit a {
+        color: #FFC107;
+        text-decoration: none;
+        font-weight: 700;
+    }
+    .footer-credit a:hover {
+        color: #FF8C42;
+        text-decoration: underline;
+    }
+</style>
+<div class="footer-wrapper">
+    <div class="footer-credit">
+        Built by <a href="https://www.linkedin.com/in/pratyushraj05" target="_blank" title="Connect on LinkedIn">Pratyush Kant Raj</a>
+    </div>
+</div>
+""", unsafe_allow_html=True)
