@@ -1,0 +1,4 @@
+segment,customers,avg_tenure_months,avg_monthly_charges,churn_rate
+0,2154,29.5,26.57,0.12
+1,2200,58.56,89.7,0.15
+2,2689,13.25,74.95,0.47
